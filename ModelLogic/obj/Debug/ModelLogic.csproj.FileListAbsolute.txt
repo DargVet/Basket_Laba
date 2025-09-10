@@ -1,0 +1,6 @@
+C:\Users\leono\source\repos\Console\ModelLogic\bin\Debug\ModelLogic.dll
+C:\Users\leono\source\repos\Console\ModelLogic\bin\Debug\ModelLogic.pdb
+C:\Users\leono\source\repos\Console\ModelLogic\obj\Debug\ModelLogic.csproj.AssemblyReference.cache
+C:\Users\leono\source\repos\Console\ModelLogic\obj\Debug\ModelLogic.csproj.CoreCompileInputs.cache
+C:\Users\leono\source\repos\Console\ModelLogic\obj\Debug\ModelLogic.dll
+C:\Users\leono\source\repos\Console\ModelLogic\obj\Debug\ModelLogic.pdb
